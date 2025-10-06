@@ -19,7 +19,7 @@ Secara keseluruhan, proyek ini tidak hanya menjadi latihan akademik, tetapi juga
 |------|------|-------|
 | Khusnia Fitri | 1203230030 | Desain UI & Dokumentasi |
 | Ahmad Assyifa Dzaky Rahman | 1203230058 | Database & Backend |
-| Muhammad Fajri Dwi Prasetya Sybandi | 1203230076 | Notifikasi & Integrasi Frontend |
+| Muhammad Fajri Dwi Prasetya Subandi | 1203230076 | Notifikasi & Integrasi Frontend |
 
 ---
 
