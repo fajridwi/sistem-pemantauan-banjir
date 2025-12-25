@@ -1,4 +1,4 @@
-# 💧 Sistem Drainase Pintar
+# Sistem Drainase Pintar
 
 <p align="justify">
 Sistem Pemantauan dan Pelaporan Banjir merupakan aplikasi berbasis web yang dikembangkan menggunakan framework Laravel dengan tujuan untuk mendukung proses pelaporan, pemantauan, dan penanganan kejadian banjir atau genangan air secara terintegrasi. Aplikasi ini dirancang sebagai media penghubung antara masyarakat dan pemerintah dalam upaya meningkatkan kecepatan, ketepatan, serta transparansi penanganan banjir di suatu wilayah.
@@ -24,7 +24,6 @@ Aplikasi ini dirancang dengan konsep role-based access, di mana setiap pengguna 
 Dengan adanya Sistem Pemantauan dan Pelaporan Banjir ini, diharapkan proses pelaporan dan penanganan banjir dapat dilakukan secara lebih cepat, terorganisir, dan transparan, serta mampu mendukung pengambilan keputusan oleh pihak pemerintah berdasarkan data laporan yang terkumpul. Aplikasi ini juga diharapkan dapat meningkatkan partisipasi masyarakat dalam upaya mitigasi bencana banjir melalui pemanfaatan teknologi informasi berbasis web.
 </p>
 
----
 
 ## Anggota Kelompok
 | Nama | NIM | Tugas |
@@ -33,7 +32,6 @@ Dengan adanya Sistem Pemantauan dan Pelaporan Banjir ini, diharapkan proses pela
 | Ahmad Assyifa Dzaky Rahman | 1203230058 | Database & Backend |
 | Muhammad Fajri Dwi Prasetya Subandi | 1203230076 | Notifikasi & Integrasi Frontend |
 
----
 
 ## Daftar Isi
 1. [Fitur Aplikasi](#fitur-aplikasi)
@@ -42,7 +40,6 @@ Dengan adanya Sistem Pemantauan dan Pelaporan Banjir ini, diharapkan proses pela
 4. [Struktur Proyek](#struktur-proyek)
 5. [Menjalankan Aplikasi](#menjalankan-aplikasi)
 
----
 
 ## Fitur Aplikasi
 Berdasarkan ide dan proposal tugas besar, aplikasi ini menyediakan fitur-fitur berikut:
@@ -74,7 +71,6 @@ Berdasarkan ide dan proposal tugas besar, aplikasi ini menyediakan fitur-fitur b
 - Menampilkan data laporan secara terstruktur
 - Mendukung pengambilan keputusan oleh petugas
 
----
 
 ## Prasyarat
 Untuk menjalankan aplikasi ini, diperlukan perangkat lunak berikut:
@@ -99,7 +95,6 @@ Untuk menjalankan aplikasi ini, diperlukan perangkat lunak berikut:
 ### Sistem Operasi
 - Windows / Linux / macOS
 
----
 
 ## Instalasi
 
