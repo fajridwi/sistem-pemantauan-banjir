@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-<<<<<<< HEAD
 # Sistem Drainase Pintar
 
 <p align="justify">
