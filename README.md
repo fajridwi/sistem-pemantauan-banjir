@@ -26,11 +26,11 @@ Dengan adanya Sistem Pemantauan dan Pelaporan Banjir ini, diharapkan proses pela
 
 
 ## Anggota Kelompok
-| Nama | NIM | Tugas |
-|------|------|-------|
-| Khusnia Fitri | 1203230030 | Desain UI & Dokumentasi |
-| Ahmad Assyifa Dzaky Rahman | 1203230058 | Database & Backend |
-| Muhammad Fajri Dwi Prasetya Subandi | 1203230076 | Notifikasi & Integrasi Frontend |
+| Nama | NIM |
+|------|------|
+| Khusnia Fitri | 1203230030 |
+| Ahmad Assyifa Dzaky Rahman | 1203230058 |
+| Muhammad Fajri Dwi Prasetya Subandi | 1203230076 |
 
 
 ## Daftar Isi
